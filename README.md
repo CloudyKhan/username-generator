@@ -136,5 +136,10 @@ You can also define custom formats using placeholders like `firstname`, `lastnam
 ```
 -f 'firstname.lastname' 'f.lastname'
 ```
-
+Ensure that the file containing the names you plan to use is formatted with first and last names on the same line like so:
+```
+JohnDoe
+FredSmith
+JaneAdams
+```
 
